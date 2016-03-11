@@ -1,0 +1,2 @@
+# ScrollerAndBtnSelectedView
+左右滑动视图头部同步跟随选中相应按钮,也可点击相应按钮选中相应视图
